@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=200&section=header&text=Harkirat%20Kaur&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Python%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack&descAlignY=58&descSize=16&descColor=d0f0e8" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Harkirat Kaur — Java · Spring Boot · Python · AI/ML · Full-Stack"/>
 
 <!-- TYPING ANIMATION — one clear, specific line -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+AI+tools+that+actually+think.;Spring+Boot+backends+that+hold+up.;Turning+messy+data+into+clear+stories.;MCA+grad.+Open+to+full-time+roles." alt="Typing SVG" />
