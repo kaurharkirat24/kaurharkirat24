@@ -20,7 +20,7 @@ jobs:
           github_user_name: kaurharkirat24
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=purple
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
