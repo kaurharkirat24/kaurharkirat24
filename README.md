@@ -16,7 +16,6 @@
 <!-- SOCIAL LINKS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harkiratkaur24/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaurharkirat932@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaurharkirat24)
 
 </div>
 
@@ -125,9 +124,15 @@ Designed the full donation flow from project discovery to contribution tracking,
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaurharkirat24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaurharkirat24&theme=tokyonight&hide_border=true&background=0D1117&stroke=1D9E75&ring=534AB7&fire=D85A30&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1D9E75&sideLabels=7DF7C4&dates=8B9CA8" alt="GitHub Streak" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaurharkirat24&theme=react-dark&bg_color=0D1117&color=1D9E75&line=534AB7&point=D85A30&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
+
+</div>
 
 ---
 
@@ -141,10 +146,6 @@ Designed the full donation flow from project discovery to contribution tracking,
   <a href="https://www.linkedin.com/in/harkiratkaur24/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/kaurharkirat24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
@@ -157,6 +158,4 @@ Designed the full donation flow from project discovery to contribution tracking,
   <em>✨ Thanks for visiting my profile! Let's connect and build something great together. ✨</em>
 </p>
 
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,50:0F6E56,100:993C1D&height=110&section=footer" width="100%"/>
 </div>
