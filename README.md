@@ -46,6 +46,7 @@ MCA graduate from Panjab University. Currently open to full-time roles in backen
     <td><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
     </td>
   </tr>
@@ -76,12 +77,10 @@ MCA graduate from Panjab University. Currently open to full-time roles in backen
     </td>
   </tr>
   <tr>
-    <td><b>Tools</b></td>
+    <td><b>DevOps</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -91,6 +90,16 @@ MCA graduate from Panjab University. Currently open to full-time roles in backen
 ## &nbsp;Featured projects
 
 <br/>
+ 
+### &nbsp;[🎧 CX-Flow](https://github.com/kaurharkirat24) &nbsp;—&nbsp; *React · Python · FastAPI · LangGraph PostgreSQL · AWS · Docker*
+ 
+> Enterprise CX automation — from raw inbox to triaged, AI-handled interactions and actions.
+ 
+Built a full-stack customer support automation platform that ingests live Gmail, runs every email through a 10-node LangGraph orchestrator (intent extraction, spam detection, sentiment, priority scoring, Human-in-the-Loop for high-risk cases), and surfaces everything on a React dashboard. Secure multimodal attachment handling via AWS S3 + Gemini Vision. RAG chat layer on top with Pinecone for querying historical interactions in natural language.
+ 
+`React` `FastAPI` `LangGraph` `LangChain` `AWS S3` `Google OAuth 2.0` `Gemini` `PostgreSQL` `Docker` 
+
+---
 
 ### &nbsp;[🧠 TextLens AI](https://github.com/kaurharkirat24/TextLens_AI) &nbsp;—&nbsp; *AI · LangChain · Vector Search*
 
@@ -99,16 +108,6 @@ MCA graduate from Panjab University. Currently open to full-time roles in backen
 Built an end-to-end semantic search and Q&A platform using vector embeddings and LangChain. The interesting part wasn't the LLM — it was building the retrieval pipeline that feeds it the *right* context. Chunking strategy, embedding quality, and relevance scoring all matter more than most tutorials admit.
 
 `Python` `LangChain` `NLP` `Vector Search` `Semantic Embeddings`
-
----
-
-### &nbsp;[🎬 Whats-On-Netflix](https://github.com/kaurharkirat24/whats-on-netflix) &nbsp;—&nbsp; *Flask · Python · Data Viz*
-
-> Netflix has 15,000+ titles. This makes sense of them.
-
-Built a full analytics dashboard exploring genre trends, release patterns, country distributions, and rating breakdowns — with a UI designed to match the content. Because if you're analysing Netflix, the dashboard should *feel* like Netflix.
-
-`Flask` `Python` `Matplotlib` `HTML` `CSS`
 
 ---
 
