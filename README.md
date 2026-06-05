@@ -91,7 +91,7 @@ MCA graduate from Panjab University. Currently open to full-time roles in backen
 
 <br/>
  
-### &nbsp;[🎧 CX-Flow](https://github.com/kaurharkirat24) &nbsp;—&nbsp; *React · Python · FastAPI · LangGraph PostgreSQL · AWS · Docker*
+### &nbsp;[🎧 CX-Flow](https://github.com/kaurharkirat24/Customer-Chat-Analysis) &nbsp;—&nbsp; *React · Python · FastAPI · LangGraph PostgreSQL · AWS · Docker*
  
 > Enterprise CX automation — from raw inbox to triaged, AI-handled interactions and actions.
  
