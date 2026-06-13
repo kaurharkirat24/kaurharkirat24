@@ -4,7 +4,7 @@
 <img src="./banner.svg" width="100%" alt="Harkirat Kaur — Java · Spring Boot · Python · AI/ML · Full-Stack"/>
 
 <!-- TYPING ANIMATION — one clear, specific line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+AI+tools+that+actually+think.;Spring+Boot+backends+that+hold+up.;Turning+messy+data+into+clear+stories.;MCA+grad.+Open+to+full-time+roles." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+AI+tools+that+actually+think.;Spring+Boot+backends+that+hold+up.;Turning+messy+data+into+clear+stories." alt="Typing SVG" />
 
 <!-- STATUS BADGES — purposeful, not decorative -->
 <br/>
