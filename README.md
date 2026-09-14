@@ -23,11 +23,9 @@
 
 ## &nbsp;Who I am
 
-I'm a software developer who builds things that actually *do something.*
+Somewhere between a support inbox and a triaged action item, there's a pipeline deciding what matters and what doesn't. I build that pipeline.
 
-AI tools that parse meaning from raw text. Dashboards that make 15,000 rows of data readable at a glance. Backend systems designed to hold up when things get complicated. I work across the full stack — but I'm most at home in the logic layer, figuring out *why* something should work before writing a line of code.
-
-MCA graduate from Panjab University. Currently open to full-time roles in backend, full-stack, or AI/ML engineering.
+Most of my work lives in that gap — the part between "raw input" and "the system did the right thing" — across backend, AI orchestration, and whatever frontend is needed to show it worked.
 
 ---
 
@@ -54,6 +52,8 @@ MCA graduate from Panjab University. Currently open to full-time roles in backen
     <td><b>AI / ML</b></td>
     <td>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Langfuse-000000?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/NLP-534AB7?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vector_Search-1D9E75?style=flat-square&logoColor=white"/>
@@ -73,6 +73,7 @@ MCA graduate from Panjab University. Currently open to full-time roles in backen
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
